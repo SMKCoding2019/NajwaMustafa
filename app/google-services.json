@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "297400055601",
+    "firebase_url": "https://daftar-pelanggaran.firebaseio.com",
+    "project_id": "daftar-pelanggaran",
+    "storage_bucket": "daftar-pelanggaran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297400055601:android:0bb323c1ee0b7358",
+        "android_client_info": {
+          "package_name": "com.example.daftarpelanggaransiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297400055601-6khjj50pggu8vu5c82p9kp3ih2se84p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daftarpelanggaransiswa",
+            "certificate_hash": "de06d1e5bf2aa34ee96b3b19f71f5a638d9ce9f2"
+          }
+        },
+        {
+          "client_id": "297400055601-308bip180cb2cnpuu90tppgtef9eiv73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPpUKmQrDVn2oH1lZ4m-eJiI8kQ3flBQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297400055601-308bip180cb2cnpuu90tppgtef9eiv73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
